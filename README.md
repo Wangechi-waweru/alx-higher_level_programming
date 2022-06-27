@@ -1,0 +1,1 @@
+This is the second trimester of the ALX Software Engineering course. This repository contains directories corresponding to a high-level language project. In these projects we cover Python and its data structures, OOP, Interpreted languages, Linux, MySQL, SQL, Systems engineering, HTML, JSON, CSS and unit testing.
